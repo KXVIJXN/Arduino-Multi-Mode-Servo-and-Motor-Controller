@@ -2,6 +2,7 @@
 
 An Arduino control system with three operating modes (off, manual joystick control, and automatic sweep) driving a servo and a DC motor, with live status on a 16x2 LCD and modes switched by a debounced push button.
 
+<img width="5712" height="3261" alt="IMG_3257" src="https://github.com/user-attachments/assets/c601b5e2-b38a-4a6f-a5a7-1062cab246fc" />
 
 Overview
 
